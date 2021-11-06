@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timofey
-- 👀 I’m interested in Arduino,GNU/linux,Space,Rockets
+- 👀 I’m interested in Arduino,GNU/Linux,Space,Rockets
 - 🌱 I’m currently learning everything
 - 🌚 join us, it will be quite fun here :)
 
